@@ -22,4 +22,4 @@ class Square:
         Returns:
             ares.
         """
-        return self.__size**2o
+        return self.__size**2
